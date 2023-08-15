@@ -1,0 +1,12 @@
+.myButton{
+    border-radius:20px;
+    background-color: rgb(91, 50, 9);
+    padding: 15px;
+    font-size: large;
+    color: #fcf6eb;
+    border:none;
+    cursor:pointer;
+
+    font-family: Verdana, sans-serif;
+    font-weight: 600;
+}

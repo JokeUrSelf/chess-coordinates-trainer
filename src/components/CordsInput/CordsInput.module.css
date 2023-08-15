@@ -1,0 +1,15 @@
+.cordInput{
+    width: 80pt;
+    height: 60pt;
+    text-align: center;
+    font-size: 30pt;
+    font-family: monospace;
+    color: rgb(184, 135, 98);
+    border: 2px solid rgb(184, 135, 98);
+    border-radius: 15px;
+}
+
+.flexWrapper{
+    display: flex;
+    justify-content: center;
+}
