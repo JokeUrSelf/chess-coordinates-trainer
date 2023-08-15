@@ -2,13 +2,15 @@
 Have you ever tried playing chess blindfolded, or simply trying to understand chess moves verbally?
 Sometimes it's tough to understand what square exactly is represented by the coordinate.
 
-![image](https://github.com/JokeUrSelf/chess-cordinates-trainer/assets/81817136/081a891c-b0a7-4479-851e-b462f3f3a38c)
+![image](https://github.com/JokeUrSelf/chess-coordinates-trainer/assets/81817136/dfaa7d8a-c8a5-44aa-b58d-e23af7fbad8a)
 
 Therefore I present to you chess coordinate trainer. It is a react application with the goal to make you remember the squares of the board, by typing their coordinates into the text field.
 
-Hihglty inspired by [keybr.com](https://www.keybr.com/)
+Hihghly inspired by [keybr.com](https://www.keybr.com/)
 
-![image](https://github.com/JokeUrSelf/chess-cordinates-trainer/assets/81817136/1e4c91d7-e1a2-4fb0-b3df-efcc14fcf72a)
+<img src="https://github.com/JokeUrSelf/chess-coordinates-trainer/assets/81817136/5abb7b41-c4fd-4d2c-9f34-84d057abd3c7" width="600">
 
->To use, clone the repository open it in the console and run `npm start`.
->You need to have `node.js` on your computer. 
+
+### How to use
+clone the repository open it in the console and run `npm start`.
+You need to have `node.js` on your computer.
