@@ -1,7 +1,7 @@
 import React from 'react'
 import Square from '../Square/Square'
 import cl from "./Board.module.css"
-const Board = ({ wrongCords, highlightedCord, cordsVisibility, isBoardRotated }) => {
+const Board = ({ wrongCoords, highlightedCoord, coordsVisibility, isBoardRotated }) => {
     const calculateCordFromIndex = (index) => {
         if (isBoardRotated)
             return "abcdefgh".at(7 - index % 8) + (Math.floor(index / 8) + 1)
@@ -12,12 +12,12 @@ const Board = ({ wrongCords, highlightedCord, cordsVisibility, isBoardRotated })
         <div className={cl.wrapper}>
             <div className={cl.board}>
                 {new Array(64).fill(0).map((_, index) => {
-                    const cord = calculateCordFromIndex(index, isBoardRotated);
+                    const coord = calculateCordFromIndex(index, isBoardRotated);
                     const isSquareWhite = !determineColorFromIndex(index);
                     return <Square
-                        isWrong={wrongCords.includes(cord)}
-                        cord={cordsVisibility ? cord : ""}
-                        isHighlighted={highlightedCord === cord}
+                        isWrong={wrongCoords.includes(coord)}
+                        cord={coordsVisibility ? coord : ""}
+                        isHighlighted={highlightedCoord === coord}
                         isWhite={isSquareWhite}
                         key={index}
                     />

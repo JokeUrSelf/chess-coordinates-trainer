@@ -1,7 +1,7 @@
 import React from 'react'
-import cl from "./CordsInput.module.css"
+import cl from "./CoordsInput.module.css"
 
-const CordsInput = ({ checkGuess }) => {
+const CoordsInput = ({ checkGuess }) => {
     return (
         <div className={cl.flexWrapper}>
             <input
@@ -23,4 +23,4 @@ const CordsInput = ({ checkGuess }) => {
         </div>
     )
 }
-export default CordsInput;
+export default CoordsInput;

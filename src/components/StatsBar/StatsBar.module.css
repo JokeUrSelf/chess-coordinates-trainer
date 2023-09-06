@@ -1,4 +1,4 @@
-.statusBar {
+.statsBar {
     display: grid;
     /* border: 2px solid black; */
     width: calc(min(70vh, 70vw));
@@ -15,12 +15,13 @@
 
 }
 
-.progressBar {
-    width: 100%;
-    margin: 0 10px;
+.progressWrapper {
+    grid-column-end: span 2;
+    display: flex;
+    align-items: center;
 }
 
-.separator{
+.separator {
     border: 1px solid rgba(0, 0, 0, .1);
     grid-column-end: span 3;
     margin: 10px 0;
