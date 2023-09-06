@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import Board from '../Board/Board'
-import CoordsInput from '../CordsInput/CoordsInput';
+import CoordsInput from '../CoordsInput/CoordsInput';
 
 const BOARD_SIZE = 8;
 
