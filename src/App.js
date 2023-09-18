@@ -6,7 +6,7 @@ import Menu from './components/Menu/Menu';
 
 
 const SETTINGS = {
-  MAX_GUESSES: 3,
+  MAX_GUESSES: 32,
   DAILY_TIME_IN_MILLIS: 30 * 1000 * 60
 };
 
