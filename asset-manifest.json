@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chess-coordinates-trainer/static/css/main.c415c7db.css",
+    "main.js": "/chess-coordinates-trainer/static/js/main.960d8dfc.js",
+    "index.html": "/chess-coordinates-trainer/index.html",
+    "main.c415c7db.css.map": "/chess-coordinates-trainer/static/css/main.c415c7db.css.map",
+    "main.960d8dfc.js.map": "/chess-coordinates-trainer/static/js/main.960d8dfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c415c7db.css",
+    "static/js/main.960d8dfc.js"
+  ]
+}
