@@ -1,4 +1,5 @@
 # Chess Coordinates Trainer (Alfa)
+
 Have you ever tried to play chess blindfolded? If yes, then you're probably aware of the fact that remembering a square's coordinate can cost you a significant amount of time.
 
 ![image](https://github.com/JokeUrSelf/chess-coordinates-trainer/assets/81817136/dfaa7d8a-c8a5-44aa-b58d-e23af7fbad8a)
@@ -10,7 +11,8 @@ Highly inspired by [keybr.com](https://www.keybr.com/)
 
 <img src="https://github.com/JokeUrSelf/chess-coordinates-trainer/assets/81817136/5abb7b41-c4fd-4d2c-9f34-84d057abd3c7" width="600">
 
-***
+---
 
-### How to use
-`clone` this repository and launch it via console by typing `npm start` in the cloned directory (you need to have `node.js` installed on your computer beforehand)
+### To use
+
+Go to: https://jokeurself.github.io/chess-coordinates-trainer/
