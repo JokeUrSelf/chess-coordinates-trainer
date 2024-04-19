@@ -4,8 +4,8 @@ Have you ever tried to play chess blindfolded? If yes, then you're probably awar
 
 ![image](https://github.com/JokeUrSelf/chess-coordinates-trainer/assets/81817136/dfaa7d8a-c8a5-44aa-b58d-e23af7fbad8a)
 
-To solve this issue and increase efficiency of your chess game use "Chess Coordinate Trainer".
-It is a React application that helps you create mental map between coordinates and their corresponding squares.
+To solve this issue use "Chess Coordinate Trainer".
+It is a web application that helps you create mental map between coordinates and their corresponding squares.
 
 Highly inspired by [keybr.com](https://www.keybr.com/)
 
